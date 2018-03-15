@@ -11,7 +11,6 @@ require 'sinatra/flash'
 require 'json'
 require 'slim'
 require 'sass'
-require 'coffee-script'
 require 'thin'
 
 
