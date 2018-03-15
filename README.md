@@ -1,6 +1,6 @@
 # Sinatra Base
 
-Basic IntelliJ Setup for a Ruby Sinatra Web Application. 
+Basic IntelliJ IDEA Setup for a Ruby Sinatra Web Application. 
 
 ## Sinatra / Server
 * thin
