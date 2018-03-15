@@ -11,7 +11,9 @@ Basic IntelliJ IDEA Setup for a Ruby Sinatra Web Application.
 * slim
 
 ## JS
+* TypeScript _Note: JavaScript Support and Node.js Plugins must be installed and enabled in IntelliJ IDEA!_
 * AngularJS
+
 
 ## Tests
 ### Backend
